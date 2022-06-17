@@ -29,7 +29,7 @@
   - Linux/Mac OS 의 경우, export NODE_ENV=development 치면 development 모드 적용 <br />
   - Windows 경우, set NODE_ENV=development 치면 적용됨 <br />
   - Development 모드에선 TESTTOKEN 값 적용됩니다. ) <br /> 
-  <br /><br />
+ <br />
   Step 4: 입맛대로 코드 뜯고 즐기셈
   <br /><br />
   Step 5: npm run buildstart 치면 빌드하고 실행됩니다.
