@@ -21,14 +21,14 @@
   Step 5: .env 안에 값 넣으셈<br />
   ( 부가설명 <br />
   - 봇 토큰은 TOKEN 과 TESTTOKEN 으로 구분되어있습니다. <br />
-  - Production 모드 ( 정식버전 ) <br />
-    - Linux/Mac OS 의 경우, export NODE_ENV=production 치면 production 모드 적용 <br />
-    - Windows 경우, set NODE_ENV=production 치면 적용됨 <br />
-    - Production 모드에선 TOKEN 값 적용됩니다. <br />
-  - Development 모드 ( 정식버전 ) <br />
-    - Linux/Mac OS 의 경우, export NODE_ENV=development 치면 development 모드 적용 <br />
-    - Windows 경우, set NODE_ENV=development 치면 적용됨 <br />
-    - Development 모드에선 TESTTOKEN 값 적용됩니다. ) <br /> 
+  --- Production 모드 ( 정식버전 ) <br />
+  ------ Linux/Mac OS 의 경우, export NODE_ENV=production 치면 production 모드 적용 <br />
+  ------ Windows 경우, set NODE_ENV=production 치면 적용됨 <br />
+  ------ Production 모드에선 TOKEN 값 적용됩니다. <br />
+  --- Development 모드 ( 정식버전 ) <br />
+  ------ Linux/Mac OS 의 경우, export NODE_ENV=development 치면 development 모드 적용 <br />
+  ------ Windows 경우, set NODE_ENV=development 치면 적용됨 <br />
+  ------ Development 모드에선 TESTTOKEN 값 적용됩니다. ) <br /> 
  <br />
   Step 4: 입맛대로 코드 뜯고 즐기셈
   <br /><br />
