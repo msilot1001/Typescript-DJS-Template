@@ -14,7 +14,7 @@
   Step 2: git clone https://github.com/msilot1001/Typescript-DJS-Template.git
   <br /><br />
   Step 3: npm i
-  (이 코드 쓰면 모듈이 자동으로 다운 됩니다) (에러 뜨면 잘 해결해보세요 안되면 저 디엠하셈)
+  (이 코드 쓰면 모듈이 자동으로 다운 됩니다) (에러 뜨면 잘 해결해보세요 안되면 저 디엠하셈: 디스코드 마실롯인것이에요#7082)
   <br /><br />
   Step 4: sample.env 파일 이름 .env 로 수정하셈
   <br /><br />
